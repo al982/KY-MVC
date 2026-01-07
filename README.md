@@ -6,7 +6,7 @@ Model Konsep Model berfungsi sebagai kerangka untuk mengolah data, contohnya sep
 
 View Sedangkan View digunakan untuk menampilkan informasi ke pengguna dalam bentuk konten sesuai rencangannya. View biasanya berisikan script HTML, CSS, JS, XML atau bahasa markup lainnya yang dapat kita gunakan untuk membuat user interface menjadi lebih menarik.
 
-ontroller Bagian terakhir adalah Controller, yang berperan sebagai penghubung antara Model dan View dalam setiap proses yang berlangsung. Controller memproses data setelah menerima permintaan dari View dan sebelum memperbarui database melalui Model. Selain itu, Controller memastikan alur kerja yang terorganisir dan efisien.
+Controller Bagian terakhir adalah Controller, yang berperan sebagai penghubung antara Model dan View dalam setiap proses yang berlangsung. Controller memproses data setelah menerima permintaan dari View dan sebelum memperbarui database melalui Model. Selain itu, Controller memastikan alur kerja yang terorganisir dan efisien.
 
 Meskipun terlihat memiliki peran masing-masing, nyatanya konsep MVC berjalan dalam satu platform yang sama yang disebut sebagai framework.
 
